@@ -11,6 +11,7 @@ import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
 import android.widget.Toast;
 
+
 public class MyActivity extends Activity {
     SimpleCursorAdapter adapter;
     ListView lvMsg;
